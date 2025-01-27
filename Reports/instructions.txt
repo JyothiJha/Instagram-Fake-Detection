@@ -1,0 +1,17 @@
+Copy the commands and paste it in the command prompt.
+
+Press Win+R
+Type cmd, press enter
+
+To install Jupyter Notebook, this command needs only to be 
+executed one time (do not repeat this command)
+
+pip install notebook
+
+Once done, to run Jupyter, type this command
+This command will be used every time you are opening Jupyter, and don't close the command prompt after that, until you are finished.
+
+jupyter notebook
+
+
+It will take some time to open, and once done, just open your file in the jupyter and run the project.
